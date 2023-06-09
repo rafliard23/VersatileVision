@@ -5,7 +5,7 @@ Versatile Vision is an attempt to do image processing within node-red environmen
 This project is part of my final project. The purpose of the study is to create system device which capable to recognize object using image processing based on contour detection method and filtering process.
 
 The performance of object detector model is here, system only tested on single class classification
-![alt text](https://github.com/rafliard23/VersatileVision/blob/main/img/Performance.jpg)
 
-![alt text](https://github.com/rafliard23/VersatileVision/blob/main/img/GraphResult.png)
+<img src="https://github.com/rafliard23/VersatileVision/blob/main/img/GraphResult.png" width="40%" height="40%"/>
 
+<img src="https://github.com/rafliard23/VersatileVision/blob/main/img/Performance.jpg" width="25%" height="25%"/>
